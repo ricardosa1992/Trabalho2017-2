@@ -7,7 +7,7 @@ TopGear é uma empresa de aluguel de veículos. Para alugar um veículo, o clien
   
 Caso o cliente não tenha cadastro, este deve ser feito, pegando os dados do cliente (Nome, CPF, Email, Endereço e Telefone) e os dados do cartão para pagamento (Número e Código verificador). Deve então ser oferecido ao cliente um serviço de passagens aéreas do parceiro, conforme disponibilidade e período de aluguel do veículo, e levando em conta o local de retirada e endereço do cliente (passagens que vão do endereço do cliente ao local de retirada). Finalizada a reserva, o veículo reservado deve ser retirado da lista de veículos disponíveis.  
   
-Na devolução do veículo, deve ser atualizada a localização do veículo. O veículo só deve ser disponibilizado para aluguel no prazo de um dia útil após a devolução, tempo em que ocorrerá a limpeza e reparos neste.  
+Na devolução do veículo, deve ser atualizada a localização do veículo. O veículo só deve ser disponibilizado para aluguel no prazo de um dia útil após a devolução, tempo em que ocorrerá a limpeza e reparos neste..
 
 ## Throughtput
 [![Throughput Graph](https://graphs.waffle.io/cayodonatti/Trabalho20172/throughput.svg)](https://waffle.io/cayodonatti/Trabalho20172/metrics/throughput)  
