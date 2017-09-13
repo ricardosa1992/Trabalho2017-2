@@ -1,0 +1,3 @@
+https://www.mundipagg.com/continuous-integration-com-appveyor/
+https://github.com/ligurio/Continuous-Integration-services/blob/master/continuous-integration-services-list.md
+https://www.visualstudio.com/pt-br/vso/
